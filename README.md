@@ -9,7 +9,7 @@ Spacy vs NLTK
 * Spacy does not include pre created models for some applications, such as sentiment analysis, which is typically easier to perform with NLTK.
 
 * NLTK vs Spacy processing Tests
-[difference.png]
+[content.png]
 For more such comparisions: https://spacy.io/usage/facts-figures
 
 
